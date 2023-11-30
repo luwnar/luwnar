@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil. 🦷
 
-<!--
-**luwnar/luwnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luana Rodrigues de Carvalho
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma Alura.
+- Estou me desenvolvendo nas linguagens Javascript, HTML e CSS.
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+rodrigues.carvalho.luana@escola.pr.gov.br
+
+
+
+![](https://i.pinimg.com/564x/01/4b/df/014bdf16ab1d033a56ac85e3719caf0b.jpg)
